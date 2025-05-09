@@ -1,7 +1,7 @@
 <h1>OSU Capstone Project - VR Arcade Classics</h1>
 
 <h2>Description</h2>
-This is a Capstone Project for OSU, done in a team with my teammates Hannalore Morrow, Miguel Songco, and Michael Lagardera. The goal of the project is to recreate/reimagine classic arcade games into a VR expirience, 
+This is a Capstone Project for Oregon State University, done in a team with my teammates Hannalore Morrow, Miguel Songco, and Michael Lagardera. The goal of the project is to recreate/reimagine classic arcade games into a VR expirience, 
 with our focus being on Pac-Man and Frogger. The project uses Unity, primarly supporting VR for Oculus 2 Devices.
 
 
